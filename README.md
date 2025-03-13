@@ -1,7 +1,7 @@
 # E-Commerce-Application
 Console based E-Commerce application in Java.
 
-* A simple console-based E-Commerce simulating application created using core Java concepts and OOP principles.
+* A simple console-based E-Commerce simulating application built built with core Java and OOP principles.
 
 ## Features and Functionalities
 

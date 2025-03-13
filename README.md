@@ -5,17 +5,17 @@ Console based E-Commerce application in Java.
 
 ## Features and Functionalities
 
-* **User Management:**
+* **User Management : **
 *   User registration
 *   User login
 *   User authentication
 *   User deletion
-* **Product Management:**
+* **Product Management : **
 *   Add product
 *   Update product
 *   Delete product
 *   View all product
-* **Functionality:**
+* **Functionality : **
 *   Place order
 *   View order history
 * **Data Storage:**

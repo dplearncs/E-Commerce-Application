@@ -41,23 +41,25 @@ Console based E-Commerce application in Java.
 3.  Run the Main.java class.
 
 ## Project Structure
-ECommerceApp/
- ├── main/
- │   └── Main.java
- ├── models/
- │   ├── Admin.java
- │   ├── Customer.java
- │   ├── Product.java
- │   └── User.java
- ├── services/
- │   ├── ECommerceApp.java
- │   ├── ProductService.java
- │   └── UserService.java
- ├── storage/
- │   └── FileService.java
- ├── inputValidator/
- │   ├── InputValidator.java
- │   └── ReturnValues.java
- └── README.md
+    ```
+    ECommerceApp/
+    ├── main/
+    │   └── Main.java
+    ├── models/
+    │   ├── Admin.java
+    │   ├── Customer.java
+    │   ├── Product.java
+    │   └── User.java
+    ├── services/
+    │   ├── ECommerceApp.java
+    │   ├── ProductService.java
+    │   └── UserService.java
+    ├── storage/
+    │   └── FileService.java
+    ├── inputValidator/
+    │   ├── InputValidator.java
+    │   └── ReturnValues.java
+    └── README.md
+    ```
 
 Thank you!!
